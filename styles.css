@@ -1,0 +1,20 @@
+.scoreCard{
+
+height: 100px;
+width: 100px;
+margin: auto;
+border: 8px;
+border-style: ridge;
+border-radius: 8px;
+border-color: black;
+align-items: center;
+}
+.selectionArea{
+display: flex;
+justify-content: center;
+}
+.playerButtons{
+    display: flex;
+    justify-content:center;
+    padding: 25px;
+}
